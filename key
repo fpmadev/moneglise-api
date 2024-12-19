@@ -1,0 +1,7 @@
+{
+data: [
+{login:"saka",pwd:"pwd",role:"admin"},
+{login:"mimi",pwd:"pwd",role:"user"},
+{login:"toto",pwd:"pwd",role:"user"}
+]
+}
